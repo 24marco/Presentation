@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Presentation</string>
+    <string name="text1">"BEST BIKE"</string>
+    <string name="text2">Via dei biciclettai, 13 \n90133 - PALERMO</string>
+    <string name="text3">+39 112 3581321</string>
+    <string name="text4">marco.gullo@gmail.com</string>
+    <string name="text5">lun - sab\n9,00 - 13,00 | 16,00 - 20,00</string>
+</resources>
